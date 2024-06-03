@@ -1,11 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ekaterina Kilina
 ========================================================================================================================================
 
-Junior Frontend Developer
+Frontend Developer
 -------------------------
-
-Currently looking for a job!
-<br />
 I'm learning React.js. Along the way, I study literature on the profession - it is interesting to study algorithms, operating systems, pure functions and automatic testing.
 I find it very important to use TDD and CI in development.
 
